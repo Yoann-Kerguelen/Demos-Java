@@ -1,2 +1,1 @@
-# Demos-Java
- Moprion et pokemon combats entre bots
+#  Moprion entre bots dans la console
