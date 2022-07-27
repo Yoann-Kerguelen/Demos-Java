@@ -1,2 +1,2 @@
 # Demos-Java
- Moprion et pokemon combats entre bots
+ Morpion et pokemon combats entre bots
