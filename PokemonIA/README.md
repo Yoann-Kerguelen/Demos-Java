@@ -1,2 +1,1 @@
-# Demos-Java
- Moprion et pokemon combats entre bots
+# pokemon combats entre bots ( pikatchu et evoli ) 
